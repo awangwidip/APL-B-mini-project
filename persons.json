@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4220"
+  },
+  "name": "Diaz Armito",
+  "gender": "male",
+  "age": 15,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4221"
+  },
+  "name": "Adi Mangro",
+  "gender": "male",
+  "age": 17,
+  "condition": "terjangkit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4222"
+  },
+  "name": "David Beckham",
+  "gender": "male",
+  "age": 40,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4223"
+  },
+  "name": "Valentino Rossi",
+  "gender": "male",
+  "age": 35,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4224"
+  },
+  "name": "Raya Dragoness",
+  "gender": "female",
+  "age": 19,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4225"
+  },
+  "name": "Katarina",
+  "gender": "female",
+  "age": 22,
+  "condition": "terjangkit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4226"
+  },
+  "name": "Natalia Clementine",
+  "gender": "female",
+  "age": 30,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4227"
+  },
+  "name": "Olivia Munn",
+  "gender": "female",
+  "age": 27,
+  "condition": "terjangkit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4228"
+  },
+  "name": "Khabib Nurmagomedov",
+  "gender": "male",
+  "age": 32,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4229"
+  },
+  "name": "Ghiffari Imam",
+  "gender": "male",
+  "age": 20,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e422a"
+  },
+  "name": "Awang Widi",
+  "gender": "male",
+  "age": 18,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e422b"
+  },
+  "name": "Donnie Damian",
+  "gender": "male",
+  "age": 27,
+  "condition": "terjangkit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e422c"
+  },
+  "name": "Christian Pulisic",
+  "gender": "male",
+  "age": 30,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e422d"
+  },
+  "name": "Maria Sharapova",
+  "gender": "female",
+  "age": 30,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55951"
+  },
+  "name": "Diaz Armito",
+  "gender": "male",
+  "age": 15,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55952"
+  },
+  "name": "Adi Mangro",
+  "gender": "male",
+  "age": 17,
+  "condition": "terjangkit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55953"
+  },
+  "name": "David Beckham",
+  "gender": "male",
+  "age": 40,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55954"
+  },
+  "name": "Valentino Rossi",
+  "gender": "male",
+  "age": 35,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55955"
+  },
+  "name": "Raya Dragoness",
+  "gender": "female",
+  "age": 19,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55956"
+  },
+  "name": "Katarina",
+  "gender": "female",
+  "age": 22,
+  "condition": "terjangkit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55957"
+  },
+  "name": "Natalia Clementine",
+  "gender": "female",
+  "age": 30,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55958"
+  },
+  "name": "Olivia Munn",
+  "gender": "female",
+  "age": 27,
+  "condition": "terjangkit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55959"
+  },
+  "name": "Khabib Nurmagomedov",
+  "gender": "male",
+  "age": 32,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a5595a"
+  },
+  "name": "Ghiffari Imam",
+  "gender": "male",
+  "age": 20,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a5595b"
+  },
+  "name": "Awang Widi",
+  "gender": "male",
+  "age": 18,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a5595c"
+  },
+  "name": "Donnie Damian",
+  "gender": "male",
+  "age": 27,
+  "condition": "terjangkit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a5595d"
+  },
+  "name": "Christian Pulisic",
+  "gender": "male",
+  "age": 30,
+  "condition": "sehat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a5595e"
+  },
+  "name": "Maria Sharapova",
+  "gender": "female",
+  "age": 30,
+  "condition": "sehat",
+  "__v": 0
+}]

@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: var(--bs-font-sans-serif);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #d7d9db;
+  /*background-color: #ba2222;*/
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  background: linear-gradient(135deg, #172a74, #21a9af);
+}
+

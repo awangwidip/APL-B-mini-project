@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e422e"
+  },
+  "username": "awangwidi382",
+  "password": "okay",
+  "level": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e422f"
+  },
+  "username": "Ghiffari99",
+  "password": "okay2",
+  "level": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c7076bd909bb15443e4230"
+  },
+  "username": "mundaneuser",
+  "password": "okay3",
+  "level": "1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a5595f"
+  },
+  "username": "awangwidi382",
+  "password": "okay",
+  "level": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55960"
+  },
+  "username": "Ghiffari99",
+  "password": "okay2",
+  "level": "3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c731f1bc3e910b58a55961"
+  },
+  "username": "mundaneuser",
+  "password": "okay3",
+  "level": "1",
+  "__v": 0
+}]
